@@ -1,4 +1,8 @@
-class QuickSort 
+// Time Complexity : Need to refresh my knowledge on this.
+// Space Complexity : Need to refresh my knowledge on this.
+// Did this code successfully run on Leetcode : YES(Over local ide)..
+// Any problem you faced while coding this : None, other than t.c and s.c.
+class QuickSort
 { 
     /* This function takes last element as pivot, 
        places the pivot element at its correct 
